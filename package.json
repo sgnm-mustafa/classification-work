@@ -1,0 +1,34 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "React",
+  "keywords": ["react", "starter"],
+  "main": "src/index.js",
+  "dependencies": {
+    "@fluentui/react": "^7.139.0",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.5.0",
+    "@testing-library/user-event": "^7.2.1",
+    "@uifabric/react-cards": "^0.112.13",
+    "array-move": "^3.0.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-dropdown-tree-select": "^2.5.1",
+    "react-scripts": "3.4.3",
+    "react-sortable-hoc": "^1.11.0",
+    "react-sortable-tree": "^2.8.0",
+    "react-treeview": "^0.4.7",
+    "react-with-direction": "^1.3.1",
+    "reactstrap": "^8.6.0"
+  },
+  "devDependencies": {
+    "typescript": "3.8.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [">0.2%", "not dead", "not ie <= 11", "not op_mini all"]
+}

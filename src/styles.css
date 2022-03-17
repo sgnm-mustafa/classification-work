@@ -1,0 +1,51 @@
+/* body {
+    height: 100vh;
+    margin: 0;
+    display: grid;
+    place-items: center;
+  }
+  
+  .box {
+    width: 300px;
+  }
+  .box h1 {
+    font-size: 20px;
+  }
+  .box.dark-mode {
+    background: black;
+    color: #bbb;
+  }
+  .box.dark-mode h1 {
+    color: white;
+  }
+  .box.dark-mode .checkbox:hover {
+    color: white;
+  }
+   */
+   .add-dt{
+    width: 100%;
+  }
+  .left-side{
+    width: 36%;
+    float: left;
+    margin: 20px 20px;
+    padding: 10px;
+    background: #fbfbfb;
+    border: 1px solid #efefef;
+    border-radius: 5px;
+  }
+  .right-side{
+    width: 55%;
+    background: #fbfbfb;
+    float: left;
+    border: 1px solid #efefef;
+    padding: 15px 10px 10px 10px;
+    border-radius: 5px;
+  }
+  .txtfield-inp {
+    width: 300px;
+  }
+  .add-btn {
+    width: 85px;
+    margin: 10px 0px !important;
+  }
